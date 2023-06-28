@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "817237779030",
+    "firebase_url": "https://quzzi-mangement-system-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "quzzi-mangement-system",
+    "storage_bucket": "quzzi-mangement-system.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:817237779030:android:d36f0456a0f54a20b751f7",
+        "android_client_info": {
+          "package_name": "com.example.sad"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "817237779030-14ei9658oa6pnivp25pdl73ospdkhfj8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgAPOG-9_gEu0bNzykMpcRZUCuFxY1rWM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "817237779030-14ei9658oa6pnivp25pdl73ospdkhfj8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
